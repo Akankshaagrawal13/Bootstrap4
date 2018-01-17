@@ -20,8 +20,15 @@
 	color: floralwhite;
 }
 .address {
-	font-size: 80%;
+	font-size:80%;
 	margin: 0px;
 	color: #0f0f0f;
-
+}
+.history-content {
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.leadership-content {
+   margin-top:50px;
+   margin-bottom:50px;
 }

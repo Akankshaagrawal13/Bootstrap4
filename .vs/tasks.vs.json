@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-conFusion",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-conFusion",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-aboutus",
+      "appliesTo": "aboutus.html",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-index",
+      "appliesTo": "index.html",
+      "type": "launch"
+    }
+  ]
+}
