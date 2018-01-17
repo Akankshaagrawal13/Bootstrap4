@@ -32,3 +32,10 @@
    margin-top:50px;
    margin-bottom:50px;
 }
+.body {
+	padding: 50px 0px 0px 0px;
+	z-index:0;
+}
+.navbar-inverse {
+	background-color: #512DA8
+}
