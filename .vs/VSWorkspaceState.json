@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.git\\info",
+    "\\css",
+    "\\node_modules\\font-awesome",
+    "\\node_modules\\font-awesome\\css"
   ],
-  "SelectedNode": "\\aboutus.html",
+  "SelectedNode": "\\contactus.html",
   "PreviewInSolutionExplorer": false
 }
