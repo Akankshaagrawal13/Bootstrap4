@@ -24,15 +24,19 @@
 	margin: 0px;
 	color: #0f0f0f;
 }
-.radio-inline {
-padding-right:15px;
-
-}
-
 .body {
 	padding: 50px 0px 0px 0px;
 	z-index:0;
 }
 .navbar-inverse {
 	background-color: #512DA8
+}
+.radio-inline {
+padding-right:15px;
+}
+.tab-content {
+     border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
