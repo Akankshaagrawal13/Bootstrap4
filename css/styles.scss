@@ -19,7 +19,22 @@ $carousel-item-height: 300px;
     border-bottom: 1px ridge;
     min-height:400px;
 }
-
+.modal-header{
+  background-color: $background-dark;
+  h4{
+	  color : #FFFAF0;
+	}
+  button
+  {
+     color:#FFFAF0;
+  }
+}
+.modal-body {
+   background-color: $background-pale;
+}
+.modal-footer{
+background-color: $background-light;
+}
 .footer{
     background-color: $background-pale;
     @include zero-margin(20px, 0px);

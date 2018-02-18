@@ -12,4 +12,13 @@
                     $("#carousel-button").children("span").addClass('fa-pause');                    
                 }
              });
+
+			 // JavaScript code has been added to the page to trigger the Reserve Table modal.
+            $("#reservebtn").click(function(){
+                $("#reserveform").modal('show')
+            });
+// JavaScript code has been added to the page to trigger the Reserve Login modal.
+            $("#loginbtn").click(function(){
+                $("#loginModal").modal('show')
+            });
         });

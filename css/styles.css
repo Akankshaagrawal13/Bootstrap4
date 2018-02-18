@@ -8,6 +8,19 @@
   border-bottom: 1px ridge;
   min-height: 400px; }
 
+.modal-header {
+  background-color: #512DA8; }
+  .modal-header h4 {
+    color: #FFFAF0; }
+  .modal-header button {
+    color: #FFFAF0; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
+.modal-footer {
+  background-color: #9575CD; }
+
 .footer {
   background-color: #D1C4E9;
   margin: 0px auto;
